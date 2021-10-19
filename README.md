@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Yedidya10
-- 🌱 I’m currently learning JavaScript and Web Development
-- 💞️ I’m looking to collaborate on Social networking project, based on RESTful API third party
+- 🌱 I’m currently learningt and Web Development!
 
 <!---
 Yedidya10/Yedidya10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
