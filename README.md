@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yedidya10
-- 🌱 I’m currently learningt and Web Development!
+- 🌱 I’m currently learning Web Development!
 
 <!---
 Yedidya10/Yedidya10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
