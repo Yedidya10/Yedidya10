@@ -5,8 +5,6 @@
 These days I am strengthening my knowledge of languages and libraries such as JS, nodejs, react and next.js.
 As well as learning PostgreSQL and PrismaORM.
 
-🌱 About the future? Definitely planning to learn and experiment with C# and C++.
-
 <!---
 Yedidya10/Yedidya10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
